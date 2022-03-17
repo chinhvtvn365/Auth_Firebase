@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977716111199",
+    "project_id": "btmobilefirebase",
+    "storage_bucket": "btmobilefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977716111199:android:a3e540c07dfa1f6b17b8ea",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977716111199-9tm34spbr6n3abg9pqgeduhr76gu7odn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVnQ_ljyJ_0e7Zw5zdOkxZUzvnnQWJTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977716111199-9tm34spbr6n3abg9pqgeduhr76gu7odn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
